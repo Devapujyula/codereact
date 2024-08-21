@@ -15,7 +15,7 @@ function FunctionalComponent() {
   */
 
 const FunctionalComponent = () => (
-  <div>
+  <div style={{ backgroundColor: "red" }}>
     <h1>Welcome to ES-6 Arrow function based Functional Component</h1>
   </div>
 );
